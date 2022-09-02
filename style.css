@@ -1,0 +1,19 @@
+body {
+  color:goldenrod;
+  font-size: 15px;
+}
+
+h2 {
+background-color: orange;
+width:43%;color:aliceblue;
+padding: 15px;
+}
+
+.fruit {
+color:aliceblue;
+}
+
+#welcome{
+color:coral;
+font-size:15px;
+}
